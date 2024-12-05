@@ -12,7 +12,7 @@ O **Shh** começou como uma tentativa de replicar (com fins de aprendizagem) o f
 - Voltar a escrever durante o timer reinicia a contagem. 
 
 ## Como Acessar
-O link está anexado.
+https://brumcodes.github.io/Secrets-Hide-Here/
 
 ## Próximos Passos
 - Refinar a interface.
