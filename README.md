@@ -9,7 +9,8 @@ O **Shh** começou como uma tentativa de replicar (com fins de aprendizagem) o f
 ## Funcionalidades  
 É bem simples.
 - Tudo o que for escrito é apagado em 5 segundos de ociosidade.
-- Voltar a escrever durante o timer reinicia a contagem. 
+- Voltar a escrever cancela o timer.
+- O timer sempre retorna do início.
 
 ## Como Acessar
 https://brumcodes.github.io/Secrets-Hide-Here/
